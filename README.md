@@ -1,8 +1,4 @@
 # Walmart_Sales_Analysis
-This project analyzes Walmart sales data to uncover insights, trends, and patterns using Python for data cleaning/preprocessing and Power BI for interactive dashboards.
-# Walmart Sales Data Analysis
-
-## 📌 Project Overview
 This project analyzes Walmart's sales, profit, and customer behavior using Python for **data cleaning & preprocessing** and Power BI for an **interactive multi-page report (dashboard)**.  
 The goal is to extract key business insights to help decision-making in areas like sales performance, product profitability, and customer trends.
 
@@ -59,12 +55,3 @@ The goal is to extract key business insights to help decision-making in areas li
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn (Data cleaning, preprocessing, and EDA)
-- **Power BI**: Multi-page interactive dashboard creation
-- **Jupyter Notebook**: For data exploration
-- **GitHub**: Version control & project hosting
-
----
-
-## 📂 Project Structure
