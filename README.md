@@ -57,7 +57,7 @@ The goal is to extract key business insights to help decision-making in areas li
 ## 📸 Dashboard Preview
 
 ### 1. Sales Overview
-![Sales Overview](C:\Users\DELL\Documents\Ashu Docs\DA Projects\Walmart_Dashboard1.png)
+![Sales Overview](Dashboard/Walmart_Dashboard1.PNG)
 
 ### 2. Profit Analysis
 ![Profit Analysis](C:\Users\DELL\Documents\Ashu Docs\DA Projects\Walmart_Dashboard2.png)
