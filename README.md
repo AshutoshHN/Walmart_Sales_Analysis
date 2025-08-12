@@ -54,16 +54,4 @@ The goal is to extract key business insights to help decision-making in areas li
 - Which category has the highest customer preference and revenue?
 
 ---
-## 📸 Dashboard Preview
-
-### 1. Sales Overview
-<img src="Dashboard/Walmart_Dashboard1.PNG" width="500">
-
-### 2. Profit Analysis
-<img src="Dashboard/Walmart_Dashboard2.PNG" width="500">
-
-### 3. Customer Insights
-<img src="Dashboard/Walmart_Dashboard3.PNG" width="500">
-
----
 
